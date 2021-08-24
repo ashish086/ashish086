@@ -6,6 +6,7 @@
 <img src ="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt ="Tensorflow"/>
 
 </div>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ashish086)
 
 - 🔭 I’m currently working on Python & AWS 
