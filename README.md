@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Data Structures & Algo 😭😭
 - 👯 I’m looking to collaborate on Java, Python, AWS
 - 🤔 I’m looking for help with Data Structures 
-- 💬 Ask me about Technical Documentation, Python,
+- 💬 Ask me about Technical Documentation, Python, AWS
 - ⚡ Fun fact: Always follow your heart but remember to bring your brain along too!😁
 
 
