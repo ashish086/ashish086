@@ -6,9 +6,9 @@
 <img src ="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt ="Tensorflow"/>
 <img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt = "MYSQL"/>
 <img src = "https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt = "OpenCV" />
+<img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt = "Django"/>
 
 </div>
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ashish086)
 
 - 🔭 I’m currently working on Python & AWS 
