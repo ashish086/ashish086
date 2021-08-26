@@ -9,6 +9,7 @@
 <img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt = "Django"/>
 
 </div>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ashish086)
 
 - 🔭 I’m currently working on Python & AWS 
